@@ -48,4 +48,4 @@ Planned future enhancements include:
 
  * Sound effects for correct/incorrect guesses.
   
- * dding hints to assist players 
+ * Adding hints to assist players 
