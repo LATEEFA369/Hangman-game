@@ -17,13 +17,13 @@ const words = [
 
 
   const hangmanImages = [
-    "/hangman/hangman 1.png",
-    "/hangman/hangman 2.png",
-    "/hangman/hangman 3.png",
-    "/hangman/hangman 4.png",
-    "/hangman/hangman 5.png",
-    "/hangman/hangman 6.png",
-    "/hangman/hangman 7.png"
+    "./hangman/hangman 1.png",
+    "./hangman/hangman 2.png",
+    "./hangman/hangman 3.png",
+    "./hangman/hangman 4.png",
+    "./hangman/hangman 5.png",
+    "./hangman/hangman 6.png",
+    "./hangman/hangman 7.png"
 ];
 
 // /*-------------------------------- Variables --------------------------------*/
